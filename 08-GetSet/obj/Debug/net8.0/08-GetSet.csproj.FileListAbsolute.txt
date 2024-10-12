@@ -1,0 +1,15 @@
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\02-orientacao-a-objetos\08-GetSet\bin\Debug\net8.0\08-GetSet.exe
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\02-orientacao-a-objetos\08-GetSet\bin\Debug\net8.0\08-GetSet.deps.json
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\02-orientacao-a-objetos\08-GetSet\bin\Debug\net8.0\08-GetSet.runtimeconfig.json
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\02-orientacao-a-objetos\08-GetSet\bin\Debug\net8.0\08-GetSet.dll
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\02-orientacao-a-objetos\08-GetSet\bin\Debug\net8.0\08-GetSet.pdb
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\02-orientacao-a-objetos\08-GetSet\obj\Debug\net8.0\08-GetSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\02-orientacao-a-objetos\08-GetSet\obj\Debug\net8.0\08-GetSet.AssemblyInfoInputs.cache
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\02-orientacao-a-objetos\08-GetSet\obj\Debug\net8.0\08-GetSet.AssemblyInfo.cs
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\02-orientacao-a-objetos\08-GetSet\obj\Debug\net8.0\08-GetSet.csproj.CoreCompileInputs.cache
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\02-orientacao-a-objetos\08-GetSet\obj\Debug\net8.0\08-GetSet.sourcelink.json
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\02-orientacao-a-objetos\08-GetSet\obj\Debug\net8.0\08-GetSet.dll
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\02-orientacao-a-objetos\08-GetSet\obj\Debug\net8.0\refint\08-GetSet.dll
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\02-orientacao-a-objetos\08-GetSet\obj\Debug\net8.0\08-GetSet.pdb
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\02-orientacao-a-objetos\08-GetSet\obj\Debug\net8.0\08-GetSet.genruntimeconfig.cache
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\02-orientacao-a-objetos\08-GetSet\obj\Debug\net8.0\ref\08-GetSet.dll
