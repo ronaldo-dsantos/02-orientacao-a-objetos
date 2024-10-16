@@ -3,6 +3,7 @@
   Quando você cria uma classe abstrata, significa que você está criando um padrão para seus projetos
   Uma classe abstrata pode conter métodos obrigatórios e metodos opcionais  
   Não é possível instanciar uma classe abstrata 
+  Cada classe pode herdar apenas uma classe abstrata
 */
 
 // Classe Abstrata
